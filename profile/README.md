@@ -1,27 +1,35 @@
-# 👋 Hi, we're Steve Team
+# 👋 Hi, we're Steve Team  
 
 Welcome to our GitHub profile!  
-We’re a development team
 
 ---
 
-## 🚀 What We Do
+## 📊 GitHub Stats
 
-* 💻 Full-stack web & app development  
-* ☁️ Cloud infrastructure & automation  
-* 🔐 Security-first solutions  
-* 🧪 Research, innovation, and rapid prototyping
+<div align="center">
 
----
+![Steve Team's GitHub stats](https://github-readme-stats.vercel.app/api?username=steveteam-global&show_icons=true&theme=tokyonight&hide_border=true)  
 
-## 💡 Tech Stack
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=steveteam-global&layout=compact&theme=tokyonight&hide_border=true)  
 
-* ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-* ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-* ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
-* ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
-* ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
+![GitHub Streak](https://streak-stats.demolab.com?user=steveteam-global&theme=tokyonight&hide_border=true)  
+
+</div>
 
 ---
 
-*Thanks for visiting our profile! ⭐️*  
+## 🛠 Tech Stack
+
+<div align="center">
+
+![JavaScript](https://img.shields.io/badge/JavaScript-000?style=flat&logo=javascript)
+![React](https://img.shields.io/badge/React-000?style=flat&logo=react)
+![Node.js](https://img.shields.io/badge/Node.js-000?style=flat&logo=node.js)
+![Python](https://img.shields.io/badge/Python-000?style=flat&logo=python)
+![Docker](https://img.shields.io/badge/Docker-000?style=flat&logo=docker)
+
+</div>
+
+---
+
+⭐️ *Thanks for visiting our profile!*  
