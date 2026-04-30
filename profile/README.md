@@ -2,6 +2,8 @@
 
 Welcome to our GitHub profile!  
 
+Headquartered across the United States and Australia, we specialize in delivering high-quality, scalable code solutions.
+
 ---
 
 ## 📊 GitHub Stats
