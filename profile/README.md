@@ -2,7 +2,7 @@
 
 Welcome to our GitHub profile!  
 
-Headquartered across the United States of America and the United Kingdom, we specialize in delivering high-quality, scalable code solutions.
+Headquartered across the United States of America, the United Kingdom, and Canada, we specialize in delivering high-quality, scalable code solutions.
 
 ---
 
