@@ -22,7 +22,7 @@ The Canada Headquarters is responsible for managing and coordinating operations 
 
 This division focuses on global service expansion, technical support, project management, security improvement, user experience development, and scalable service delivery across American and European regions.
 
-🇬🇧🇺🇸 United Kingdom & United States Headquarters
+🇬🇧/🇺🇸 United Kingdom & United States Headquarters
 
 The United Kingdom & United States Headquarters is responsible for managing and coordinating operations across:
 
