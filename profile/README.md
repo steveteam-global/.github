@@ -18,7 +18,7 @@ Steve Team is organized into **two main headquarters divisions**:
 The Canada Headquarters is responsible for managing and coordinating operations across:
 
 * America
-* Europe
+* Oceania
 
 This division focuses on global service expansion, technical support, project management, security improvement, user experience development, and scalable service delivery across American and European regions.
 
@@ -26,8 +26,8 @@ This division focuses on global service expansion, technical support, project ma
 
 The United Kingdom & United States Headquarters is responsible for managing and coordinating operations across:
 
+* Europe
 * Asia
-* Oceania
 
 This division focuses on global service expansion, technical support, project management, security improvement, user experience development, and scalable service delivery across Asian and Oceanian regions.
 
@@ -126,8 +126,8 @@ Steve Team uses a regional management model to support global development and co
 
 | Headquarters Division | Managed Regions |
 | --- | --- |
-| Canada Headquarters | America, Europe |
-| United Kingdom & United States Headquarters | Asia, Oceania |
+| Canada Headquarters | America, Oceania |
+| United Kingdom & United States Headquarters | Europe, Asia |
 
 This structure allows Steve Team to manage projects with a broader international perspective while keeping regional responsibilities clear and organized.
 
