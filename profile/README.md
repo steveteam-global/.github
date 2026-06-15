@@ -11,23 +11,30 @@ Steve Team operates with a distributed global structure, allowing us to support 
 
 ## 🌍 Global Headquarters Structure
 
-Steve Team is organized into **two main headquarters divisions**:
+Steve Team is organized into **three main headquarters divisions**:
 
-🇨🇦 Canada Headquarters
+🇬🇧 United Kingdom Headquarters
 
-The Canada Headquarters is responsible for managing and coordinating operations across:
+The United Kingdom Headquarters is responsible for managing and coordinating operations across:
 
 * America
 * Oceania
 
 This division focuses on global service expansion, technical support, project management, security improvement, user experience development, and scalable service delivery across American and European regions.
 
-🇬🇧/🇺🇸 United Kingdom & United States Headquarters
+🇺🇸 United States Headquarters
 
-The United Kingdom & United States Headquarters is responsible for managing and coordinating operations across:
+The United States Headquarters is responsible for managing and coordinating operations across:
 
 * Europe
 * Asia
+
+🇨🇦 Canada Headquarters (Currently not in operation)
+
+The Canada Headquarters is responsible for managing and coordinating operations across:
+
+* Africa
+
 
 This division focuses on global service expansion, technical support, project management, security improvement, user experience development, and scalable service delivery across Asian and Oceanian regions.
 
