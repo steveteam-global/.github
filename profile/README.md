@@ -17,7 +17,7 @@ Steve Team is organized into **three main headquarters divisions**:
 
 The United Kingdom Headquarters is responsible for managing and coordinating operations across:
 
-* America
+* Europe
 * Oceania
 
 This division focuses on global service expansion, technical support, project management, security improvement, user experience development, and scalable service delivery across American and European regions.
@@ -26,7 +26,7 @@ This division focuses on global service expansion, technical support, project ma
 
 The United States Headquarters is responsible for managing and coordinating operations across:
 
-* Europe
+* America
 * Asia
 
 🇨🇦 Canada Headquarters (Currently not in operation)
